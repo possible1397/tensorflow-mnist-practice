@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Jupyter/IPython
+.ipynb_checkpoints
+
+# 虛擬環境
+.venv/
+env/
+venv/
+
+# PyCharm 設定檔
+.idea/
+
+# 模型檔與訓練檔案（如有）
+*.h5
+*.keras
+*.ckpt
+*.tflite
+
+# OS 系統檔
+.DS_Store
+Thumbs.db
